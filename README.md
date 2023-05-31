@@ -15,7 +15,7 @@ experiment, and repeat.
 If you ar einterested in additional comments, I invite you
 to read the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2023/05/31/histogram-of-oriented-gradients/
 
 Enjoy,
 
